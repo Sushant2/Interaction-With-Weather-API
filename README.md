@@ -8,9 +8,9 @@ To Get Started :
   npm init
   npm i request
 ```
-1. Create A File Name With .js Extension
-1. Copy & Paste The App.js Code lines In To Your yourfile-name.js File
-1. Type Following Code In Terminal
+3. Create A File Name With .js Extension
+3. Copy & Paste The App.js Code lines In To Your yourfile-name.js File
+3. Type Following Code In Terminal
 ```bash
   node filename.js 
 ```
