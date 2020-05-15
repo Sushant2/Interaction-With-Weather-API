@@ -1,5 +1,5 @@
 var http = require('http');
-var url = 'http://api.openweathermap.org/data/2.5/weather?q=New+Delhi,IN&APPID=89550832828349a7b738892e33be75fc&units=metric;';
+var url = 'http://api.openweathermap.org/data/2.5/weather?q=New+Delhi,IN&APPID=YOURAPIKEY&units=metric;';
 
 var server = http.createServer(function(request, response){
     //All logic will go here
