@@ -10,9 +10,11 @@ To Get Started :
 ```
 3. Create A File Name With .js Extension
 3. Copy & Paste The App.js Code lines In To Your yourfile-name.js File
+3. Sign Up Here [Weather-API](https://openweathermap.org/api) to your your personal API Key!
+3. Replace That API Key with "YOURAPIKEY" from app.js
 3. Type Following Code In Terminal
 ```bash
   node filename.js 
 ```
 ---
-Happy Coding
+Happy Coding :P
